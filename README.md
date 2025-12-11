@@ -54,7 +54,19 @@
 </div>
 </div>
 
+---
+### 📊 Most Used Languages
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tome078&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  width="450"
+/>
+
+</div>
 
 
+------
 
 ## 📊 GitHub Over
