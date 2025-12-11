@@ -9,7 +9,8 @@
 💻 Learning **Next.js**, **C#** and **Python**  
 ⚙️ Building **ApisManager** in Next.js  
 🚗 **BMW E46 Lover <3**
-<div>
+</div>
+
 <div>
   <p align="left">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
@@ -22,7 +23,7 @@
   </p>
 
 <p align="right">
-  <img src="https://imgur.com/a/fmwrqJ3" width="65%" />
+  <img src="https://i.imgur.com/EShsgG4.png" width="65%" />
 </p>
 </div>
 
