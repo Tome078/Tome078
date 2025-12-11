@@ -28,6 +28,9 @@
     </p>
   </div>
 
+<br/>
+<br/>
+<br/>
   <!-- Div do Spotify Wrapped (Direita) -->
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
