@@ -31,11 +31,12 @@
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
   <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false&bar_color=53b14f&mode=dark" 
     width="300"
     style="border-radius:12px;"
   />
 </a>
+
 
 </td>
 
