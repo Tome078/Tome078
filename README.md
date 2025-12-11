@@ -15,6 +15,9 @@
 <!-- SPOTIFY SECTION -->
 <div align="center">
 
+<!-- SPOTIFY SECTION -->
+<div align="center">
+
 <h2>🎧 Spotify Activity</h2>
 
 <div align="center" style="background:#0d0d0d;padding:20px;border-radius:15px;box-shadow:0 0 12px #00ffc355;display:inline-block;">
@@ -22,30 +25,27 @@
 <table>
 <tr>
 
-<!-- NOW PLAYING -->
+<!-- "NOW" = última música tocada -->
 <td align="center" width="50%" style="padding:10px;">
-<h3 style="color:#00ffc3">Now Playing</h3>
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
+  <h3 style="color:#00ffc3">Last / Now Playing*</h3>
   <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=1&width=300" 
     width="300"
     style="border-radius:12px;"
   />
-</a>
-
+  <p style="color:#888;font-size:12px;margin-top:5px">
+    *Most recent track from your Spotify
+  </p>
 </td>
 
-<!-- RECENT TRACKS -->
+<!-- Últimas 3 músicas -->
 <td align="center" width="50%" style="padding:10px;">
-<h3 style="color:#00ffc3">Últimas 3 músicas</h3>
-
-<img 
-  src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3&width=300" 
-  width="300"
-  style="border-radius:12px;"
-/>
-
+  <h3 style="color:#00ffc3">Últimas 3 músicas</h3>
+  <img 
+    src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3&unique=true&width=300" 
+    width="300"
+    style="border-radius:12px;"
+  />
 </td>
 
 </tr>
@@ -53,6 +53,7 @@
 
 </div>
 </div>
+
 
 
 
