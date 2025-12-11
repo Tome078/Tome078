@@ -21,6 +21,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played">
   </p>
 </div>
+<p align="right">
+  <img src="https://imgur.com/a/fmwrqJ3" width="65%" />
+</p>
+
 
 
 <p align="center">
