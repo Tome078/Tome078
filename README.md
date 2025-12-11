@@ -31,7 +31,7 @@
   <!-- Div do Spotify Wrapped (Direita) -->
   <div style="flex: 1; padding-left: 20px;">
     <p align="right">
-      <img src="https://i.imgur.com/M7VXr19.png" width="65%" />
+      <img src="https://i.imgur.com/EShsgG4.png" width="65%" />
     </p>
   </div>
 
