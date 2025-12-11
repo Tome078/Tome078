@@ -13,7 +13,7 @@
 </div>
 
 
-<p align="center">
+<p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=77bb41&bar_color_cover=true">
 
