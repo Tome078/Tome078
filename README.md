@@ -29,7 +29,7 @@
 <!-- WIDGET OFICIAL DO SPOTIFY -->
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
 <img 
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color_cover=true" 
+  src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true)" 
   width="300" 
   style="border-radius:12px;" 
 />
