@@ -9,6 +9,7 @@
 💻 Learning **Next.js**, **C#** and **Python**  
 ⚙️ Building **ApisManager** in Next.js  
 🚗 **BMW E46 Lover <3**
+
 </div>
 
 <div>
@@ -22,19 +23,18 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played">
   </p>
 
-<p align="right">
-  <img src="https://i.imgur.com/EShsgG4.png" width="30%" />
-</p>
+  <p align="right">
+    <img src="https://i.imgur.com/EShsgG4.png" width="30%" />
+  </p>
 </div>
-
-
 
 <p align="center">
-  
-
-  <a href="https://instagram.com/tome.2210/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/users/569221225130491905/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-  
-## 📊 GitHub Over
+  <a href="https://instagram.com/tome.2210/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://discord.com/users/569221225130491905/" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
 </p>
+
+## 📊 GitHub Overview
