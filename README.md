@@ -1,52 +1,43 @@
-![Banner](https://i.imgur.com/M7VXr19.png)
+<p align="center">
+  <img src="https://i.imgur.com/M7VXr19.png" width="65%" />
+</p>
 
 <div align="center">
 
 # 👋 Hi there — I'm Tome078  
-💻 Learning **Next.js**, **C#**, **Python**  
-🚗 **BMW E46 Lover <3**  
-⚡ Developer of **ApisManager**
+
+💻 Learning **Next.js**, **C#** and **Python**  
+⚙️ Building **ApisManager** in Next.js  
+🚗 **BMW E46 Lover <3**
+
+</div>
 
 ---
 
-## 🎧 Spotify — Now Playing (Animated)
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&theme=novatorem&cover_image=true&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/fma94l5f4ay1p6ndw2ydla4ac)
-
----
-
-## 📊 GitHub Overview (Compact)
-
+<!-- SPOTIFY BLOCOS LADO A LADO -->
 <table>
-<tr>
-<td>
+  <tr>
+    <td valign="top" width="50%">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Tome078&show_icons=true&theme=tokyonight&border_radius=10" />
+      <h3 align="center">🎧 Now playing</h3>
 
-</td>
-<td>
+      <a href="https://open.spotify.com/user/fma94l5f4ay1p6ndw2ydla4ac">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&bar_color_cover=true" />
+      </a>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tome078&layout=compact&theme=tokyonight&border_radius=10" />
+    </td>
+    <td valign="top" width="50%">
 
-</td>
-</tr>
+      <h3 align="center">🎵 Últimas 3 músicas</h3>
+
+      <a href="https://open.spotify.com/user/fma94l5f4ay1p6ndw2ydla4ac">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3&width=450" />
+      </a>
+
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
----
-
-## 🔗 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
-
-</div>
+## 📊 GitHub Over
