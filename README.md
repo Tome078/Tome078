@@ -21,18 +21,20 @@
 
   <div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <!-- Div do Spotify Recently Played (Esquerda) -->
-  <div style="flex: 1; padding-right: 20px;">
-    <p align="left">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played">
-    </p>
-  </div>
+    <!-- Div do Spotify Recently Played (Esquerda) -->
+    <div style="flex: 1; padding-right: 20px;">
+      <p align="left">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played">
+      </p>
+    </div>
 
-  <!-- Div do Spotify Wrapped (Direita) -->
-  <div style="flex: 1; padding-left: 20px;">
-    <p align="right">
-      <img src="https://i.imgur.com/EShsgG4.png" width="20%" />
-    </p>
+    <!-- Div do Spotify Wrapped (Direita) -->
+    <div style="flex: 1; padding-left: 20px;">
+      <p align="right">
+        <img src="https://i.imgur.com/EShsgG4.png" width="40%" />
+      </p>
+    </div>
+
   </div>
 
 </div>
