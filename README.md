@@ -24,5 +24,11 @@
 
 
 <p align="center">
+  
+<div>
+  <a href="https://instagram.com/tome.2210/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/569221225130491905/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
+  
 ## 📊 GitHub Over
 </p>
