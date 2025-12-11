@@ -1,6 +1,9 @@
-![Banner](https://i.imgur.com/Y8OXWL5.png)
-# 👋 Olá! Eu sou o Kalu!  
-💻 Desenvolvedor Full ChatGPT
+![Banner](https://i.imgur.com/7GJ5bey.png)
+# 👋 Olá!  
+💻 Trying to learn Next.js, C# and Python
+
+💻 Developing my own App (ApisManager) in Next.js
+
 
 
 
