@@ -17,7 +17,7 @@
     </a>
   </p>
 
-  <p align="right">
+  <p align="left">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played">
   </p>
 </div>
