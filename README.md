@@ -15,9 +15,6 @@
 <!-- SPOTIFY SECTION -->
 <div align="center">
 
-<!-- SPOTIFY SECTION -->
-<div align="center">
-
 <h2>🎧 Spotify Activity</h2>
 
 <div align="center" style="background:#0d0d0d;padding:20px;border-radius:15px;box-shadow:0 0 12px #00ffc355;display:inline-block;">
@@ -31,12 +28,11 @@
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true">
   <img 
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=false&bar_color=53b14f&mode=dark" 
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
     width="300"
     style="border-radius:12px;"
   />
 </a>
-
 
 </td>
 
@@ -57,6 +53,7 @@
 
 </div>
 </div>
+
 
 
 ## 📊 GitHub Over
