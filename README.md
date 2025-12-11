@@ -23,7 +23,7 @@
   </p>
 
 <p align="right">
-  <img src="https://i.imgur.com/EShsgG4.png" width="10%" />
+  <img src="https://i.imgur.com/EShsgG4.png" width="30%" />
 </p>
 </div>
 
