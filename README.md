@@ -1,4 +1,4 @@
-![Banner]("https://i.imgur.com/M7VXr19.png")
+![Banner](https://i.imgur.com/M7VXr19.png)
 # 👋 Olá!  
 💻 Trying to learn Next.js, C# and Python
 
