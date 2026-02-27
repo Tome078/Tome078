@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://i.imgur.com/M7VXr19.png" width="65%" /> </p> 
-<div align="center"> # 👋 Hi there — I'm Tome078 
+<div align="center"> # 👋 Hi there — I'm Tome078 <br/>
   💻 Learning **Next.js**, **C#** and **Python** <br/>
   ⚙️ Building **ApisManager** in Next.js 🚗 <br/>
   **BMW E46 Lover <3** </div> <br/>
