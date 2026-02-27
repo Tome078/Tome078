@@ -2,22 +2,21 @@
   <img src="https://i.imgur.com/M7VXr19.png" width="65%" />
 </p>
 
-<div align="center">
+<h1 align="center">👋 Hi there — I'm Tome078</h1>
 
-# 👋 Hi there — I'm Tome078  
-
-💻 Learning **Next.js**, **C#** and **Python**  
-⚙️ Building **ApisManager** in Next.js  
-🚗 **BMW E46 Lover <3**
-
-</div>
+<p align="center">
+💻 Learning <b>Next.js</b>, <b>C#</b> and <b>Python</b><br/>
+⚙️ Building <b>ApisManager</b> in Next.js<br/>
+🚗 <b>BMW E46 Lover &lt;3</b>
+</p>
 
 <br/>
 
-<!-- SPOTIFY SECTION -->
+<!-- ================= SPOTIFY SECTION ================= -->
+
 <table align="center">
   <tr>
-    <!-- Spotify Recently Played -->
+    <!-- Recently Played -->
     <td align="center">
       <img 
         src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" 
@@ -37,18 +36,18 @@
   </tr>
 </table>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- SPOTIFY WRAPPED -->
+<!-- ================= SPOTIFY WRAPPED ================= -->
+
 <p align="center">
   <img src="https://i.imgur.com/EShsgG4.png" width="40%" />
 </p>
 
-<br/>
-<br/>
+<br/><br/>
 
-<!-- SOCIAL BUTTONS -->
+<!-- ================= SOCIAL BUTTONS ================= -->
+
 <p align="center">
   <a href="https://instagram.com/tome.2210/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-ED088E?style=for-the-badge&logo=instagram&logoColor=white">
@@ -65,13 +64,20 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tome078&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tome078&layout=compact&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Tome078&show_icons=true&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tome078&layout=compact&theme=tokyonight" 
+    height="165"
+  />
 </p>
 
 <br/>
 
-<!-- IMAGEM FINAL FULL WIDTH -->
+<!-- ================= IMAGEM FINAL FULL WIDTH ================= -->
+
 <p align="center">
-  <img src="LINK_DIRETO_DA_TUA_IMAGEM.jpg" width="100%" />
+  <img src="https://i.imgur.com/Ogg2wLG.jpg" width="100%" />
 </p>
