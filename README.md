@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.imgur.com/M7VXr19.png" width="65%" />
-  ![Most Used Languages](https://github-stats-from-mario.vercel.app/api/languages-banner?username=Tome078&top=6&w=900&h=300&bg1=%230f766e&bg2=%2322c55e&dir=to-br&text=%23ecfdf5&muted=%23c2f0d8)
+  <img src="https://github-stats-from-mario.vercel.app/api/languages-banner?username=Tome078&top=6&w=900&h=300&bg1=%230f766e&bg2=%2322c55e&dir=to-br&text=%23ecfdf5&muted=%23c2f0d8" width="100%" />
 </p>
 
 <div align="center">
