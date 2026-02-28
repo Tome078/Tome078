@@ -57,5 +57,5 @@
 
 <!-- FOTO FINAL A 100% LARGURA -->
 <p align="center">
-  <img src="https://imgur.com/Vxbror8" width="100%" />
+  <img src="https://i.imgur.com/kUDGzyl.jpeg" width="100%" />
 </p>
