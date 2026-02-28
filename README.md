@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://i.imgur.com/M7VXr19.png" width="65%" /> </p> 
 <div align="center"> # 👋 Hi there — I'm Tome078 <br/>
-  💻 Learning **Next.js**, **C#** and **Python** <br/>
-  ⚙️ Building **ApisManager** in Next.js 🚗 <br/>
-  **BMW E46 Lover <3** </div> <br/>
+  💻 Learning Next.js, C# and Python <br/>
+  ⚙️ Building ApisManager in Next.js 🚗 <br/>
+  BMW E46 Lover <3 </div> <br/>
     <div> <p align="left"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&redirect=true"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fma94l5f4ay1p6ndw2ydla4ac&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=77bb41&bar_color_cover=true"> </a> </p> 
       <div style="display: flex; justify-content: space-between; align-items: center;"> 
         <!-- Div do Spotify Recently Played (Esquerda) --> <div style="flex: 1; padding-right: 20px;"> <p align="left"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=fma94l5f4ay1p6ndw2ydla4ac&count=3" alt="Spotify Recently Played"> </p> </div> <br/> <br/> <br/>
